@@ -11,3 +11,5 @@ Install dependencies in notebooks/examples/requirement.txt (pip) and environment
 All codes for running experiments are located in notebooks/examples.
 
 To run logistic regression model experiments, use 'dp_logistic_regression.py' after checking the argparser arguments. For BNN, use instead 'run_bnn.py'.
+
+[![DOI](https://zenodo.org/badge/626846942.svg)](https://zenodo.org/badge/latestdoi/626846942)
