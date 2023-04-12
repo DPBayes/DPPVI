@@ -1,6 +1,6 @@
 # DP-PVI
 
-Implementation of [Differentially Private Partitioned Variational Inference](https://openreview.net/forum?id=55BcghgicI).
+Implementation of [Differentially Private Partitioned Variational Inference](https://openreview.net/forum?id=55BcghgicI). The implementation is based on the original [PVI](https://arxiv.org/abs/2202.12275) code base.
 
 ## Basic setup before running experiments
 
